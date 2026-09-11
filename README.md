@@ -1,1 +1,1 @@
-# Pŕactica Git
+# Práctica Git
